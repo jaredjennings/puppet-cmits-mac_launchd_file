@@ -1,0 +1,12 @@
+{
+  "name": "jaredjennings/mac_launchd_file",
+  "version": "0.1.0",
+  "author": "Jared Jennings",
+  "summary": "Provide the functionality of the mac_launchd_file module from CMITS (boilerplate)",
+  "license": "Apache-2.0",
+  "source": "https://github.com/jaredjennings/puppet-cmits-mac_launchd_file",
+  "project_page": "https://github.com/jaredjennings/puppet-cmits-mac_launchd_file",
+  "issues_url": "https://github.com/jaredjennings/puppet-cmits-mac_launchd_file/issues",
+  "dependencies": []
+}
+
