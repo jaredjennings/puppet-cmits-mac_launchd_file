@@ -41,7 +41,7 @@ define mac_launchd_file(
     $plist = "${ld}/${name}.plist"
     file { $plist:
         ensure => present,
-        owner => root, group => 0, mode => 0644,
+        owner => root, group => 0, mode => '0644',
     }
 # Make the arguments always be an array, because in the property list
 # file they should always be an array. See
